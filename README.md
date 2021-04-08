@@ -1,2 +1,2 @@
 # ABM-Website
-Im a ABM student and this project is made by me.
+I'm a ABM student and this project is made by me.
